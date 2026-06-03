@@ -1,0 +1,189 @@
+{
+    "name": "Angewandte Informatik",
+    "degree": "B.Sc.",
+    "target_gpa": 2.0,
+    "total_ects_goal": 180,
+    "current_semester_index": 3,
+    "user_name": "P. E.",
+    "semesters": [
+        {
+            "number": 1,
+            "target_ects": 30,
+            "start_date": "2024-10-01",
+            "end_date": "2025-03-31",
+            "modules": [
+                {
+                    "module_code": "INF-01",
+                    "module_name": "Einführung in die Informatik",
+                    "ects": 5,
+                    "status": "Abgeschlossen",
+                    "exam_grade": 1.3
+                },
+                {
+                    "module_code": "MAT-01",
+                    "module_name": "Mathematik für Informatiker I",
+                    "ects": 5,
+                    "status": "Abgeschlossen",
+                    "exam_grade": 2.7
+                },
+                {
+                    "module_code": "INF-02",
+                    "module_name": "Grundlagen der Programmierung",
+                    "ects": 5,
+                    "status": "Abgeschlossen",
+                    "exam_grade": 1.7
+                },
+                {
+                    "module_code": "INF-03",
+                    "module_name": "Technische Informatik",
+                    "ects": 5,
+                    "status": "Abgeschlossen",
+                    "exam_grade": 2.0
+                },
+                {
+                    "module_code": "LAW-01",
+                    "module_name": "Datenschutz und IT-Recht",
+                    "ects": 5,
+                    "status": "Abgeschlossen",
+                    "exam_grade": 1.0
+                },
+                {
+                    "module_code": "MGT-01",
+                    "module_name": "IT-Projektmanagement",
+                    "ects": 5,
+                    "status": "Abgeschlossen",
+                    "exam_grade": 2.3
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "target_ects": 30,
+            "start_date": "2025-04-01",
+            "end_date": "2025-09-30",
+            "modules": [
+                {
+                    "module_code": "INF-04",
+                    "module_name": "Datenstrukturen und Algorithmen",
+                    "ects": 5,
+                    "status": "Abgeschlossen",
+                    "exam_grade": 1.7
+                },
+                {
+                    "module_code": "MAT-02",
+                    "module_name": "Mathematik für Informatiker II",
+                    "ects": 5,
+                    "status": "Abgeschlossen",
+                    "exam_grade": 3.3
+                },
+                {
+                    "module_code": "INF-05",
+                    "module_name": "Objektorientierte Softwareentwicklung",
+                    "ects": 5,
+                    "status": "Abgeschlossen",
+                    "exam_grade": 1.3
+                },
+                {
+                    "module_code": "INF-06",
+                    "module_name": "Datenbanksysteme",
+                    "ects": 5,
+                    "status": "Abgeschlossen",
+                    "exam_grade": 2.0
+                },
+                {
+                    "module_code": "INF-07",
+                    "module_name": "Theoretische Informatik",
+                    "ects": 5,
+                    "status": "Abgeschlossen",
+                    "exam_grade": 2.7
+                },
+                {
+                    "module_code": "INF-08",
+                    "module_name": "Rechnernetze",
+                    "ects": 5,
+                    "status": "Abgeschlossen",
+                    "exam_grade": 1.0
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "target_ects": 30,
+            "start_date": "2025-10-01",
+            "end_date": "2026-03-31",
+            "modules": [
+                {
+                    "module_code": "INF-09",
+                    "module_name": "Programmieren mit Python",
+                    "ects": 5,
+                    "status": "Abgeschlossen",
+                    "exam_grade": 1.0
+                },
+                {
+                    "module_code": "INF-10",
+                    "module_name": "Software Engineering",
+                    "ects": 5,
+                    "status": "Begonnen",
+                    "exam_grade": null
+                },
+                {
+                    "module_code": "INF-11",
+                    "module_name": "Betriebssysteme",
+                    "ects": 5,
+                    "status": "Begonnen",
+                    "exam_grade": null
+                },
+                {
+                    "module_code": "INF-12",
+                    "module_name": "Verteilte Systeme",
+                    "ects": 5,
+                    "status": "Geplant",
+                    "exam_grade": null
+                },
+                {
+                    "module_code": "INF-13",
+                    "module_name": "Mensch-Computer-Interaktion",
+                    "ects": 5,
+                    "status": "Geplant",
+                    "exam_grade": null
+                },
+                {
+                    "module_code": "INF-14",
+                    "module_name": "IT-Sicherheit",
+                    "ects": 5,
+                    "status": "Geplant",
+                    "exam_grade": null
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "target_ects": 30,
+            "start_date": "2026-04-01",
+            "end_date": "2026-09-30",
+            "modules": [
+                {
+                    "module_code": "INF-15",
+                    "module_name": "Web-Entwicklung",
+                    "ects": 5,
+                    "status": "Geplant",
+                    "exam_grade": null
+                },
+                {
+                    "module_code": "INF-16",
+                    "module_name": "Künstliche Intelligenz",
+                    "ects": 5,
+                    "status": "Geplant",
+                    "exam_grade": null
+                },
+                {
+                    "module_code": "INF-17",
+                    "module_name": "Big Data Technologien",
+                    "ects": 5,
+                    "status": "Geplant",
+                    "exam_grade": null
+                }
+            ]
+        }
+    ]
+}
